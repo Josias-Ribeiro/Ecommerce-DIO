@@ -16,9 +16,9 @@ export class ProductListService {
     },
     {
         id: 2,
-        name: 'O mundo de Sofia',
+        name: 'O mundo de Sofia', 
         price: 20,
-        quantity: 22,
+        quantity: 12,
         category: 'Fantasy',
         img: 'img2',
       },
